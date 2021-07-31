@@ -1,2 +1,2 @@
-# Transfer-Learning-Flowers-Classification
+# CNN-Transfer-Learning-Flowers-Classification
 Classification of Flowers using Images with Transfer Learning Method
